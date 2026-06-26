@@ -1,0 +1,4 @@
+pip install aiogram
+pip install groq
+pip install deep-translator
+pip install requests
